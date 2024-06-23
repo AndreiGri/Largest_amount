@@ -1,5 +1,4 @@
 ﻿#include <iostream>
-#include <vector>
 
 int minimum_calculation(int* arr)                             // Метод для вычисления минимального значения в массиве
 {
